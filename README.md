@@ -2,7 +2,7 @@
 
 👀 Passionate about crafting immersive web experiences and exploring the latest trends in web development.
 
-🌱 Currently delving into advanced React techniques and honing my skills in Node.js development.
+🌱 Currently delving into advanced React techniques and builing  my skills in Backend development.
 
 💞️ Open to collaborating on exciting projects that push the boundaries of web technology.
 
