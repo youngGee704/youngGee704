@@ -1,4 +1,4 @@
-👋 Hey there! I'm Innocent Goodness, a Full Stack Web Developer. My toolkit includes HTML, CSS, React, JavaScript, and Node.js.
+👋 Hey there! I'm Innocent Goodness, a Frontend Web/Sofware Dev. My toolkit includes React, Next.js , Tailwind Css and Typescript.
 
 👀 Passionate about crafting immersive web experiences and exploring the latest trends in web development.
 
