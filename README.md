@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm a **Frontend Web/Software Developer** passionate about crafting beautiful, fast, and intuitive user interfaces.  
+- 🔭 I'm a **Web 2/3 Software Engineer** passionate about crafting beautiful, fast, and intuitive user interfaces.  
 - 🚀 Currently exploring **advanced React techniques** and growing my knowledge in **backend development**.  
 - 🌟 I enjoy building **immersive digital experiences** and keeping up with the latest trends in tech.  
 - 🤝 Open to **collaborating on creative projects** that challenge the norm and push boundaries.  
