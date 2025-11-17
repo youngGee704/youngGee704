@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! 👋 I'm Innocent Goodness</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Web+%2F+Software+Developer;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Web2/3+Web+%2F+Software+Developer;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 ---
